@@ -1,0 +1,6 @@
+C:\Users\hstua\source\repos\consoleConnection\consoleConnection\bin\Debug\consoleConnection.exe.config
+C:\Users\hstua\source\repos\consoleConnection\consoleConnection\bin\Debug\consoleConnection.exe
+C:\Users\hstua\source\repos\consoleConnection\consoleConnection\bin\Debug\consoleConnection.pdb
+C:\Users\hstua\source\repos\consoleConnection\consoleConnection\obj\Debug\consoleConnection.csprojAssemblyReference.cache
+C:\Users\hstua\source\repos\consoleConnection\consoleConnection\obj\Debug\consoleConnection.exe
+C:\Users\hstua\source\repos\consoleConnection\consoleConnection\obj\Debug\consoleConnection.pdb
